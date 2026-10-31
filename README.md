@@ -1,6 +1,3 @@
-Internship_Report_Utkarsh_Goel 2026.pdf: Project README
-This document provides a comprehensive overview of the engineering project detailed in the file Internship_Report_Utkarsh_Goel 2026.pdf.
-Project and Author Details
  * Project Title: Industrial Exposure to Spring Manufacturing Processes.
  * Author: Utkarsh Goel (USN: 1MS23ME123).
  * Institution: Department of Mechanical Engineering, Ramaiah Institute of Technology, Bengaluru.
