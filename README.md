@@ -1,4 +1,4 @@
- * Project Title: Industrial Exposure to Spring Manufacturing Processes.
+Project Title: Industrial Exposure to Spring Manufacturing Processes.
  * Author: Utkarsh Goel (USN: 1MS23ME123).
  * Institution: Department of Mechanical Engineering, Ramaiah Institute of Technology, Bengaluru.
  * Host Company: Balaji Springs Pvt. Ltd., Meerut, Uttar Pradesh.
@@ -29,4 +29,5 @@ Key Technical Phases
  * Shot Peening: Spherical steel media bombards the springs to induce compressive residual stress, effectively improving the component's fatigue life.
  * Setting/Presetting: Springs are compressed to their solid height to induce minor plastic deformation, which permanently stabilizes their length for future use.
  * Surface Finishing: Final treatments like Zinc Electroplating, Black Oxide coating, or Powder Coating are applied for corrosion resistance and aesthetic purposes.
+
 The internship successfully bridged academic theory and industrial practice by integrating virtual CAD design and FEA simulation with the physical constraints of Design for Manufacturability (DFM). Analyzing the entire lifecycle of a spring reinforced the necessity of factoring physical shop-floor processes, such as residual stress relieving and end grinding, directly into initial theoretical models.
